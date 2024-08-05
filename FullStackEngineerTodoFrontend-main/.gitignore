@@ -1,0 +1,52 @@
+# Dependencies
+/node_modules
+
+# Parcel cache
+/.parcel-cache
+
+# Production build
+/build
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs and editors
+/.idea
+/.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# TypeScript
+*.tsbuildinfo
+
+# Prettier
+.prettierignore
+.prettierconfig
+
+# ESLint
+.eslintcache
+
+# Coverage
+/coverage
+
+# Temporary files
+*.tmp
+*.temp
+
+# Other
+.cache
+.parcel-cache
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
